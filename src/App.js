@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          <small>If you can read this, you don't need glasses.</small>
         </p>
         <a
           className="App-link"
